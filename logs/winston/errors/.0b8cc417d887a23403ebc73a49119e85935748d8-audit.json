@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\errors\\.0b8cc417d887a23403ebc73a49119e85935748d8-audit.json",
+    "files": [
+        {
+            "date": 1686240598817,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\errors\\um-2023-08-06-22-error.log",
+            "hash": "b6b83ccb1549c7cda44e1e54ef697675bd08a3c578f7542e628dae5b32fbf133"
+        }
+    ],
+    "hashType": "sha256"
+}
