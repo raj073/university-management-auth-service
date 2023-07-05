@@ -1,0 +1,24 @@
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-30T12:30:53.711Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-30T12:30:53.739Z'
+}
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-30T12:46:08.485Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-30T12:46:08.516Z'
+}

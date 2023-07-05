@@ -6,9 +6,124 @@
     "auditLog": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\.a3f3e8d1d59a3c1222eaecf26a58834a68c62103-audit.json",
     "files": [
         {
-            "date": 1686240598813,
-            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-08-06-22-success.log",
-            "hash": "0f7d4d1f77a4692f1e5ac3f319a3560dc91a77fdd53273f9279ba30805ec69c9"
+            "date": 1687420036618,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-22-06-13-success.log",
+            "hash": "0cdebbf0ad90a668ef241c1f22202e6e9582c4f637c8ca12f5c75bcc2f2a1124"
+        },
+        {
+            "date": 1687452342153,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-22-06-22-success.log",
+            "hash": "2387740adccbee713d403303516ddfd162cc00c46c034661ee29405222d9cfac"
+        },
+        {
+            "date": 1687488417026,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-08-success.log",
+            "hash": "dc04ca8d7c3ab2e20dd601005069497e1aab529a32786c3cf9e0158714a1cf37"
+        },
+        {
+            "date": 1687490843100,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-09-success.log",
+            "hash": "bc46e72a95a7c6c9dcfee8e976501ba3ac33ea20efee80f3b36b7ea7485cee33"
+        },
+        {
+            "date": 1687502265150,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-12-success.log",
+            "hash": "7079a9a0de2e6f148ae7d3009941391a2896d899694a0fc34a6474fcf7c83423"
+        },
+        {
+            "date": 1687504548993,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-13-success.log",
+            "hash": "97019f4932e130cf156674a54d6daaba2baed4b75e231e9865a5c6f9c82fbf4e"
+        },
+        {
+            "date": 1687507362463,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-14-success.log",
+            "hash": "16db21ae34153474622706468379a3b47ae066eb47955bf434094887bff87373"
+        },
+        {
+            "date": 1687540322791,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-23-success.log",
+            "hash": "39678d040554ea4cbb0bc19e355df4f6da419da41db5a02a8e691b1db10bb5df"
+        },
+        {
+            "date": 1687545177752,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-24-06-00-success.log",
+            "hash": "d48b87a44d4fe4505301a265c8c91ebc61e8f175db7672c1c8e1d324da3a53b1"
+        },
+        {
+            "date": 1687581203862,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-24-06-10-success.log",
+            "hash": "696874cd91cf4f5272422f2a41fd6b38ad6d5a1c3b5b09532d1355131e9f7f38"
+        },
+        {
+            "date": 1687584401178,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-24-06-11-success.log",
+            "hash": "5246a8e3bf9548671e9d575c74805dd4fe829d84957330b1e47f4e52a8fe3e1a"
+        },
+        {
+            "date": 1687601870584,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-24-06-16-success.log",
+            "hash": "f594e5f7731f09ef8d5bac6060081d60f6f831a212e7591399dd311081bc1db4"
+        },
+        {
+            "date": 1687623615750,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-24-06-22-success.log",
+            "hash": "cd8b82334609c806b192d77b0777a23b6c4046d9feba830665e2b4ce285eb67b"
+        },
+        {
+            "date": 1687627589827,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-24-06-23-success.log",
+            "hash": "95c6017e5e085b7e735e8b0c2284a63fa2207f5e06162e5aa93b3c83f2a4c83a"
+        },
+        {
+            "date": 1687630393022,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-25-06-00-success.log",
+            "hash": "f24887564e2a4a5678261970ba4bdbbd34ab7d817adf9c4143d84e2403ac2ff5"
+        },
+        {
+            "date": 1687673203628,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-25-06-12-success.log",
+            "hash": "e82f467091eebbf827118d85ff14a84af55647c867ff68f6968cf3e8c90ac68f"
+        },
+        {
+            "date": 1687838977751,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-27-06-10-success.log",
+            "hash": "053bc02e03bc4b3d76a7739234cc855e321bef81d1a53d28813ea6edda843ae4"
+        },
+        {
+            "date": 1688059684419,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-29-06-23-success.log",
+            "hash": "7e267ef26d3a2de49698565de540d9c5e32504639596a64301ba82eb8ea88a39"
+        },
+        {
+            "date": 1688098554850,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-30-06-10-success.log",
+            "hash": "809a32b94bdfdb9a6425c86bef2a108665e966c9b3f0c2142843852bce672b2b"
+        },
+        {
+            "date": 1688123232119,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-30-06-17-success.log",
+            "hash": "d89e0ae04febe9f9c78df517a383b5b090d4cc212c0b648f259e38e291cc1a45"
+        },
+        {
+            "date": 1688128248981,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-30-06-18-success.log",
+            "hash": "f2e0f57d59d6062783594ad0b9ff1e26236d3dfa21997da07229a1926ab1b67c"
+        },
+        {
+            "date": 1688568844626,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-05-07-20-success.log",
+            "hash": "cd2f557b3324be216a46dfd9caca8d38ee14a4f1652b62e5e1c81f7402a18320"
+        },
+        {
+            "date": 1688579530470,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-05-07-23-success.log",
+            "hash": "91d93d3cead2e53762740360c4776665f9f76a599c75da27a045da90caa701c7"
+        },
+        {
+            "date": 1688580525022,
+            "name": "D:\\Course Programming Hero\\Next Level Web Development\\Be a NoSQL Backend Maniac\\university-management-auth-service\\logs\\winston\\successes\\um-2023-06-07-00-success.log",
+            "hash": "2902b1cfa945f3128ee6909398f08484a49e65d782e75784265433c8b4e00104"
         }
     ],
     "hashType": "sha256"

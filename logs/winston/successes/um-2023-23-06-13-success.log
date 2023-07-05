@@ -1,0 +1,84 @@
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:15:50.567Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:15:50.590Z'
+}
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:16:22.356Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:16:22.405Z'
+}
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:17:20.324Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:17:20.341Z'
+}
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:18:27.322Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:18:27.344Z'
+}
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:19:15.207Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:19:15.222Z'
+}
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:19:50.124Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:19:50.143Z'
+}
+{
+  message: 'Database Connected Sucessfully',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:20:23.485Z'
+}
+{
+  message: 'University Management Server Listening on 5000',
+  level: 'info',
+  label: 'Success Log',
+  timestamp: '2023-06-23T07:20:23.506Z'
+}
